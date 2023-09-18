@@ -1,4 +1,4 @@
-### Hello, I'm [Jin](https://www.linkedin.com/in/yongjinl) 
+### 🧑‍💻 Hello, I'm [Jin](https://www.linkedin.com/in/yongjinl) 
 
 ![Java](https://img.shields.io/badge/Java--white?style=plastic&logo=java&logoColor=black&labelColor=d3d3d3&color=d3d3d3)
 ![Python](https://img.shields.io/badge/Python--d3d3d3?style=plastic&logoColor=black&labelColor=d3d3d3)
